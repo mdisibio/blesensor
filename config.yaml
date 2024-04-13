@@ -1,0 +1,13 @@
+devices:
+  - name: outside
+    address: 7dae7cba-5e45-6a13-116d-5fccc1de2bea
+    original_name: "C T 803BEB"
+    display_name: "🌳 outside"
+  - name: office
+    address: ba1ecf12-7cfa-3157-8669-460d49ea9486
+    original_name: "C T 803BE9"
+    display_name: "🖥️ office"
+  - name: basement
+    address: a8ef64f9-d6a0-347f-2f80-26ce3f91b005 
+    original_name: "C T 803BEA"
+    display_name: "🏠⬇basement"
